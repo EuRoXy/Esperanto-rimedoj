@@ -1,4 +1,4 @@
-# Esperanto-remedioj
+# Esperanto rimedoj
 
 Blogoj
 - [blogoj en esperanto](http://blogoj.gemelo.org/)
@@ -13,7 +13,6 @@ Filmoj & serioj
 
 Librejo & eldonejoj
 - [Libraro](https://www.libraro.net/)
-- [Lernu biblioteko](https://lernu.net/)
 
 Komputeko
 - [Komputeko](https://komputeko.net/#!b)
@@ -49,7 +48,6 @@ Podkastoj
 
 Radio
 - [Esperanto-magazino](https://toulouse.occeo.net/category/radio/)
-- Varsovia Vento
 
 Receptoj
 - [Bonan Apetiton](https://apetito.ikso.net/)
