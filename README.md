@@ -2,17 +2,27 @@
 
 Blogoj
 - [blogoj en esperanto](http://blogoj.gemelo.org/)
-- [Libera Folio](https://www.liberafolio.org/)
+- [Libera Folio](https://www.liberafolio.org/): sendependa movada bulteno
+- [Balbutoj de Birke kaj Bertilo](https://bertilow.com/blogo/): malnova blogo
+- [Stela ĉiam nur kritikas](https://stelachiamnurkritikas.wordpress.com/): de denaskulo kaj aktivulo
+- [Teo Kaj Libroj](https://teokajlibroj.wordpress.com/)
 
 Ekzamenoj
 - [UEA-KER](https://edukado.net/ekzamenoj/ker)
 
 Filmoj & serioj
+- [Mazi en Gondolando](https://www.youtube.com/watch?v=sdk2C0GnQ2I&t=0s): kurso por infanoj
+- [Pasporto al la tuta mondo](https://www.youtube.com/@pasportotutamondo): kursaro kun amuza rakonto
 - [Gerda malaperis](https://www.youtube.com/watch?v=PXjmX2jipQ4)
-- [Pasporto al la tuta mondo](https://www.youtube.com/@pasportotutamondo)
 
-Librejo & eldonejoj
+Filmetoj
+- [Konindaĵo](https://www.youtube.com/@Konindajo/shorts)
+
+Libroj kaj literaturo
 - [Libraro](https://www.libraro.net/)
+- [Gutenberg-projekto](https://www.gutenberg.org/browse/languages/eo)
+- [Libroservo de UEA](https://katalogo.uea.org/)
+- [Bobelarto](https://bobelarto.ink/)
 
 Komputeko
 - [Komputeko](https://komputeko.net/#!b)
@@ -34,20 +44,27 @@ Muzikaloj
 
 Muziko
 - [Vinilkosmo](https://www.vinilkosmo-mp3.com/eo/)
-- klasika: Mola, dek bovinoj, Stelo, Homura
 - [Cristina Casella](https://www.youtube.com/@CristinaCasella)
+- [Ludlisto de Sxinja](https://www.youtube.com/playlist?list=PLerAF-p4RGFBRVLGkn7VJM5Za3FliZDuQ)
+- [Ludlisto de ekstremoj](https://www.youtube.com/playlist?list=PL7EA1ACACD139A1F4)
 
 Podkastoj
 - [podkasta](http://podkasta.net/pod.php)
-- [La Bona Renkontiĝo kun Stela](https://www.laboren.org/)
 - [Usone persone](https://www.youtube.com/@usonepersone)
 - [Fremdulo](https://open.spotify.com/show/6pbmdsDSmgHqbPa6vpVM3a?go=1&sp_cid=e98fb603f56f4a782440777e2d2cb61d&utm_source=embed_player_p&utm_medium=desktop&nd=1&dlsi=9e2c8ea2ee7d4001)
-- [BabiBejo](https://bejo.esperanto.org.br/category/babibejo/)
+- [La Bona Renkontiĝo kun Stela](https://www.laboren.org/)
 - [Umado kun Martin](https://open.spotify.com/show/1nLfsCaf0852ET9RA9LV9Q)
+- [BabiBejo](https://bejo.esperanto.org.br/category/babibejo/)
 - [Esku - Esperanto-Kulturo](https://www.youtube.com/@EskuEsperantoKulturo)
+- [kern.punkto](https://kern.punkto.info/)
 
 Radio
-- [Esperanto-magazino](https://toulouse.occeo.net/category/radio/)
+- [Canal Sud Tuluzo FM](https://toulouse.occeo.net/category/radio/)
+- [Muzaiko](http://muzaiko.info/a%C5%ADskultu)
+- [Varsovia Vento](https://www.podkasto.net/), [podkasto viavento](https://www.youtube.com/channel/UCR5dluqaVH7xo5iAfkunyVA)
+- [Pola Retradio](https://pola-retradio.org)
+- []()
+- []()
 
 Receptoj
 - [Bonan Apetiton](https://apetito.ikso.net/)
@@ -71,10 +88,16 @@ Sciencoj
 Sonlibroj
 - [Jen Nia IJK](https://www.youtube.com/watch?v=YNyEv4CG5ws&list=PLerAF-p4RGFBfo-vhsu0h-Z3vDJz-bUqY&index=10)
 - [Gerda Malaperis](https://www.youtube.com/watch?v=iVz6V0gH7Sk&list=PLerAF-p4RGFBfo-vhsu0h-Z3vDJz-bUqY&index=12)
-- [La Eta Princo](https://www.youtube.com/watch?v=yGS_uCAAwSQ&list=PLerAF-p4RGFBfo-vhsu0h-Z3vDJz-bUqY&index=9)
-- [Aventuroj de Alicio en Mirlando](https://youtube.com/watch?v=Yd75gf4rt0o&list=PLerAF-p4RGFBfo-vhsu0h-Z3vDJz-bUqY&index=17)
-- [La Mirinda Sorĉisto de Oz](https://www.youtube.com/watch?v=k_ANhX7LMjU&list=PLerAF-p4RGFBfo-vhsu0h-Z3vDJz-bUqY&index=14)
 - [Vivo de Zamenhof](https://www.youtube.com/watch?v=FJddYk1mqUI&list=PLerAF-p4RGFBfo-vhsu0h-Z3vDJz-bUqY&index=15)
+- [La Eta Princo](https://www.youtube.com/watch?v=yGS_uCAAwSQ&list=PLerAF-p4RGFBfo-vhsu0h-Z3vDJz-bUqY&index=9)
+- [Aventuroj de Alicio en Mirlando](http://bilinguis.com/book/alice/eo/en/c1/)
+  - [JTB](https://youtube.com/watch?v=Yd75gf4rt0o&list=PLerAF-p4RGFBfo-vhsu0h-Z3vDJz-bUqY&index=17)
+- [La Mirinda Sorĉisto de Oz](https://www.youtube.com/watch?v=k_ANhX7LMjU&list=PLerAF-p4RGFBfo-vhsu0h-Z3vDJz-bUqY&index=14)
+- [Bona Espero – Idealo kaj realo](https://www.podkasto.net/arkivejo/bona-espero-idealo-kaj-realo/)
+- [Biblio](https://computing.southern.edu/rordonez/EsperantoAudioBible/html/)
+- [Retretejo Ulvarda — Jack Vance](https://esperanto.us/mp3/Retretejo_Ulvarda.html)
+- [Trigamba Joĉjo — Jack Vance](https://esperanto.us/mp3/Trigamba_Jocxjo.html)
+- [La Luna Sfingo — Jack Vance](https://esperanto.us/mp3/La_Luna_Sfingo.html)
 
 Teatro
 - [1910](https://www.youtube.com/watch?v=fbWldQKlfrA&list=PLerAF-p4RGFDhdVzKfZq2hCxTQ-i6Djyi&index=15)
@@ -86,18 +109,18 @@ Televido
 - [UEA.facila filmetoj](https://uea.facila.org/filmetoj/)
 - [Mondovizio 2021](https://www.youtube.com/watch?v=ungy3cRrjSs)
 - [Mondovizio 2020](https://www.youtube.com/watch?v=t9m_drncpYk)
+- La Usona Bona Film-Festivalo: [1a](https://www.youtube.com/playlist?list=PLTJVP9TJqV37J92mi5bO-rZzlzt7xjB81), [2a](https://www.youtube.com/playlist?list=PLTJVP9TJqV35GjcBWkcFU4eVBn0Qzgp5z), [3a](https://www.youtube.com/playlist?list=PLTJVP9TJqV37rQZppdU9rFsOYzsKeXv7M), [4a](https://www.youtube.com/playlist?list=PLTJVP9TJqV36gttVe13cNUl2O-i7GiPeX), [5a](https://www.youtube.com/playlist?list=PLTJVP9TJqV37RTGTwRQhK2x1AsB35zPqX).
 
 Verkoj
 - [Verkoj](http://verkoj.com/lauteme/index.html)
 
 Video-blogoj
+- [listo de jutubistoj](https://docs.google.com/spreadsheets/d/1QaLqkh0FYwMb6WBPrkme12lxh7sXPt9fglnsWlwCMZI/edit#gid=819751319)
 - [Evildea](https://www.youtube.com/@Evildea/playlists)
 - [Chelsea Rae Moses](https://www.youtube.com/@tinydancestar/playlists)
 - [Pigrulo](https://www.youtube.com/@pigrulo3364/playlists)
 - [Shanny Love Esperanto 💚](https://www.youtube.com/@shannyloveesperanto4788)
 - [Eterna Krokodilanto](https://www.youtube.com/@eternakrokodilanto5263)
-
-Vojagxo
 - [Filmkonkurso: Mia Asocio, Mia Urbo](https://www.youtube.com/playlist?list=PLfebd4xxn3CMe10A17DnGnx0p2hww0_i2)
 
 Vortaroj kaj tekstaro
