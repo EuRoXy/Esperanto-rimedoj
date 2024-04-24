@@ -1,4 +1,12 @@
 # Esperanto rimedoj
+Biblioteko, libroservo kaj literaturo
+- [Libraro](https://www.libraro.net/)
+- [Gutenberg-projekto](https://www.gutenberg.org/browse/languages/eo)
+- [Katologo de edukado.net](https://edukado.net/biblioteko/libroj)
+- [Libroservo de UEA](https://katalogo.uea.org/)
+- [Bobelarto](https://bobelarto.ink/)
+- [EO BookWyrm](https://libroj.org/)
+- [La teorio Nakamura](https://lernu.net/libro): kursaro en [Lernu!](lernu.net)
 
 Blogoj
 - [blogoj en esperanto](http://blogoj.gemelo.org/)
@@ -10,6 +18,15 @@ Blogoj
 Ekzamenoj
 - [UEA-KER](https://edukado.net/ekzamenoj/ker)
 
+Eventoj
+- [Eventa Servo](https://eventaservo.org/)
+- [Somera Esperanto-Studado](https://ses.ikso.net/2022/eo/): [SES 2020](https://www.youtube.com/playlist?list=PLxK2Msuk-O2unnWwv7WoPk97dDXJi7uJl)
+- [NASK: Nord-Amerika Somera Kursaro](http://nask.esperanto-usa.org/)
+
+Famuloj
+- [La Esperantisto de la Jaro](https://esperanto-ondo.ru/Ind-jaro.htm)
+- [Kabe: Ĉu Eterna Mistero?](https://esperanto.org.uk/articles/movado/kabe-%C4%89u-eterna-mistero)
+  
 Filmoj & serioj
 - [Mazi en Gondolando](https://www.youtube.com/watch?v=sdk2C0GnQ2I&t=0s): kurso por infanoj
 - [Pasporto al la tuta mondo](https://www.youtube.com/@pasportotutamondo): kursaro kun amuza rakonto
@@ -18,15 +35,17 @@ Filmoj & serioj
 Filmetoj
 - [Konindaĵo](https://www.youtube.com/@Konindajo/shorts)
 
-Libroj kaj literaturo
-- [Libraro](https://www.libraro.net/)
-- [Gutenberg-projekto](https://www.gutenberg.org/browse/languages/eo)
-- [Libroservo de UEA](https://katalogo.uea.org/)
-- [Bobelarto](https://bobelarto.ink/)
+Lingvo
+- [Konfuziloj](https://edukado.net/biblioteko/fotoj?al=26)
+- [La poetoj detruas nian lingvon](http://bonalingvo.net/index.php/La_poetoj_detruas_nian_lingvon)
+- [Poetoj konstruas nian lingvon](https://dvd.ikso.net/revuo/Revuo_Esperanto/2009/12.pdf#page=11)
+- [La bona lingvo](http://claudepiron.free.fr/livres/bonalingvo.htm)
+- [Retoriko](https://www.ivolapenna.org/verkoj/books/esp_retoriko.pdf)
 
-Komputeko
+Komputado kaj tekniko
 - [Komputeko](https://komputeko.net/#!b)
 - [Programistiĝu](https://www.youtube.com/playlist?list=PLLcWlBThjQPyrDDy3UIW8Zo0yreJWyfAp)
+- [Esperanto kaj Libera Scio](https://www.youtube.com/channel/UCe6epPgJ2jvsWxbQxeL6kUg)
 
 Koncertoj
 - [Koncerto de Clarissa | Retoso 2023](https://www.youtube.com/watch?v=-RNnk5rrhwg)
@@ -36,6 +55,12 @@ Koncertoj
 - [Koncerto de La Perdita Generacio | IJK 2021 en la reto](https://www.youtube.com/watch?v=b9c42_iKfwY)
 - [Koncerto de Emerson Santos | IJK 2020 en la reto](https://www.youtube.com/watch?v=BXeq3LpXKtY)
 - [Koncerto de Jonny M | IJK 2020 en la reto](https://www.youtube.com/watch?v=jGIK5zJUFaU)
+
+Kuirado kaj receptoj
+- [Bonan Apetiton](https://apetito.ikso.net/)
+- [Kuiru kun mi](https://kuirukunmi.com/)
+- [Kiel Oni?](https://www.youtube.com/channel/UCkNmXZM-r0BilXVKLNfJOVQ)
+- [Tutmonda Esperantista Vegetarana Asocio](https://vegetarismo.info/)
 
 Muzikaloj
 - [La sorto gvidos vin: la Muzikalo](https://www.youtube.com/watch?v=C4SUrL_3C3M)
@@ -52,6 +77,7 @@ Podkastoj
 - [podkasta](http://podkasta.net/pod.php)
 - [Usone persone](https://www.youtube.com/@usonepersone)
 - [Fremdulo](https://open.spotify.com/show/6pbmdsDSmgHqbPa6vpVM3a?go=1&sp_cid=e98fb603f56f4a782440777e2d2cb61d&utm_source=embed_player_p&utm_medium=desktop&nd=1&dlsi=9e2c8ea2ee7d4001)
+- [Esperanta Retradio](http://esperantaretradio.blogspot.com/?view=magazine)
 - [La Bona Renkontiĝo kun Stela](https://www.laboren.org/)
 - [Umado kun Martin](https://open.spotify.com/show/1nLfsCaf0852ET9RA9LV9Q)
 - [BabiBejo](https://bejo.esperanto.org.br/category/babibejo/)
@@ -66,24 +92,33 @@ Radio
 - []()
 - []()
 
-Receptoj
-- [Bonan Apetiton](https://apetito.ikso.net/)
-- [Kuiru kun mi](https://kuirukunmi.com/)
+Religio
+- [Biblio](https://computing.southern.edu/rordonez/EsperantoAudioBible/html/)
+- [Diservo por Pasko | Retoso 2021](https://www.youtube.com/watch?v=fnBItkBO-kI&list=PLTJlxCuYruSl3TJnOvbE8ckKnCkX2BnFn&index=9)
+- [La Liturgio de la Vorto](https://www.youtube.com/channel/UCtAH7F6SISiaeS2o3JX4brg): kun legaĵoj laŭ la liturgia kalendaro de la Romkatolika Eklezio
 
 Revuoj
 - [Kontakto](https://www.uea.org/revuoj/kontakto)
 - [Esperanto](https://www.uea.org/revuoj/esperanto)
-  - [Voĉlegitaj](https://www.uea.org/revuoj/sono)
+- [Monato](https://monato.be/indekso.php)
 - [Unesko-Kuriero](https://www.uea.org/revuoj/unesko_kuriero)
 
 Sciencoj
+- [Sprouts Esperanto](https://www.youtube.com/channel/UCoXZfW6CH_NBl8OemOscwrA)
 - [Scivolemo](https://www.youtube.com/@Scivolemo)
+- [D-ro Loĉjo](https://www.youtube.com/channel/UCSE4dWlC9CWL4TEdqnaAEww)
+- [Konindaĵo](https://www.youtube.com/channel/UCZbrL1bXGbvEpmmhoLTxlHw)
 - [IRIS - Internacia Reta Interfaka Simpozio 2023](https://www.youtube.com/playlist?list=PLTJlxCuYruSnLagnrtaMmHcp54BO9rzcy)
 - [IRIS - Internacia Reta Interfaka Simpozio 2021](https://www.youtube.com/playlist?list=PLTJlxCuYruSnFaZL5jBo7Xk8lSiXG0LN7)
-- [Konferenco pri Aplikoj de Esperanto en Scienco kaj Tekniko (KAEST) 2020](https://www.youtube.com/playlist?list=PLxK2Msuk-O2suJWj-ieNJ5wI_uuxLom3-)
+- Konferenco pri Aplikoj de Esperanto en Scienco kaj Tekniko (KAEST): [2020](https://www.youtube.com/playlist?list=PLxK2Msuk-O2suJWj-ieNJ5wI_uuxLom3-), [2014](https://www.youtube.com/playlist?list=PLxK2Msuk-O2tDVwbfHz6vlQKSDve0hvuq)
 - [Universitato de Esperanto](https://www.universitato.info/)
 - [Internacia Kongresa Universitato (IKU)](http://verkoj.com/lauteme/scienco/IKU/#)
 - [Lernolibroj](http://verkoj.com/lauteme/sciencaj-lernolibroj/)
+
+Sociaj retejoj
+- [Mia vivo](https://www.miavivo.net/)
+- [Mastodon](https://esperanto.masto.host/explore)
+- [Amikumu](https://amikumu.com/eo/)
   
 Sonlibroj
 - [Jen Nia IJK](https://www.youtube.com/watch?v=YNyEv4CG5ws&list=PLerAF-p4RGFBfo-vhsu0h-Z3vDJz-bUqY&index=10)
@@ -94,10 +129,10 @@ Sonlibroj
   - [JTB](https://youtube.com/watch?v=Yd75gf4rt0o&list=PLerAF-p4RGFBfo-vhsu0h-Z3vDJz-bUqY&index=17)
 - [La Mirinda Sorĉisto de Oz](https://www.youtube.com/watch?v=k_ANhX7LMjU&list=PLerAF-p4RGFBfo-vhsu0h-Z3vDJz-bUqY&index=14)
 - [Bona Espero – Idealo kaj realo](https://www.podkasto.net/arkivejo/bona-espero-idealo-kaj-realo/)
-- [Biblio](https://computing.southern.edu/rordonez/EsperantoAudioBible/html/)
 - [Retretejo Ulvarda — Jack Vance](https://esperanto.us/mp3/Retretejo_Ulvarda.html)
 - [Trigamba Joĉjo — Jack Vance](https://esperanto.us/mp3/Trigamba_Jocxjo.html)
 - [La Luna Sfingo — Jack Vance](https://esperanto.us/mp3/La_Luna_Sfingo.html)
+- [Voĉlegitaj numeroj de la revuo Esperanto](https://www.uea.org/revuoj/sono)
 
 Teatro
 - [1910](https://www.youtube.com/watch?v=fbWldQKlfrA&list=PLerAF-p4RGFDhdVzKfZq2hCxTQ-i6Djyi&index=15)
@@ -111,17 +146,23 @@ Televido
 - [Mondovizio 2020](https://www.youtube.com/watch?v=t9m_drncpYk)
 - La Usona Bona Film-Festivalo: [1a](https://www.youtube.com/playlist?list=PLTJVP9TJqV37J92mi5bO-rZzlzt7xjB81), [2a](https://www.youtube.com/playlist?list=PLTJVP9TJqV35GjcBWkcFU4eVBn0Qzgp5z), [3a](https://www.youtube.com/playlist?list=PLTJVP9TJqV37rQZppdU9rFsOYzsKeXv7M), [4a](https://www.youtube.com/playlist?list=PLTJVP9TJqV36gttVe13cNUl2O-i7GiPeX), [5a](https://www.youtube.com/playlist?list=PLTJVP9TJqV37RTGTwRQhK2x1AsB35zPqX).
 
-Verkoj
-- [Verkoj](http://verkoj.com/lauteme/index.html)
-
-Video-blogoj
+[Tubaro](https://tubaro.aperu.net/)
 - [listo de jutubistoj](https://docs.google.com/spreadsheets/d/1QaLqkh0FYwMb6WBPrkme12lxh7sXPt9fglnsWlwCMZI/edit#gid=819751319)
 - [Evildea](https://www.youtube.com/@Evildea/playlists)
-- [Chelsea Rae Moses](https://www.youtube.com/@tinydancestar/playlists)
-- [Pigrulo](https://www.youtube.com/@pigrulo3364/playlists)
 - [Shanny Love Esperanto 💚](https://www.youtube.com/@shannyloveesperanto4788)
 - [Eterna Krokodilanto](https://www.youtube.com/@eternakrokodilanto5263)
 - [Filmkonkurso: Mia Asocio, Mia Urbo](https://www.youtube.com/playlist?list=PLfebd4xxn3CMe10A17DnGnx0p2hww0_i2)
+
+Verkoj
+- [Verkoj](http://verkoj.com/lauteme/index.html)
+- [UEA.facila artikoloj](https://uea.facila.org/index.php?app=cms&module=pages&controller=page&path=artikoloj)
+
+Vojagxo
+- [Chelsea Rae Moses](https://www.youtube.com/@tinydancestar/playlists)
+- [Pigrulo](https://www.youtube.com/@pigrulo3364/playlists)
+- [Alex & Camille](https://www.youtube.com/channel/UCidbSWM7DjqhHl9JMISgrEw)
+- [Monumento Pri Esperanto](https://dvd.ikso.net/faka/scienco/Monumente.pdf)
+- [Pasporta Servo](https://www.pasportaservo.org/)
 
 Vortaroj kaj tekstaro
 - [PIV 2020](https://vortaro.net/)
