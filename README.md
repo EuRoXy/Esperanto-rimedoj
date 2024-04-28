@@ -89,8 +89,7 @@ Radio
 - [Muzaiko](http://muzaiko.info/a%C5%ADskultu)
 - [Varsovia Vento](https://www.podkasto.net/), [podkasto viavento](https://www.youtube.com/channel/UCR5dluqaVH7xo5iAfkunyVA)
 - [Pola Retradio](https://pola-retradio.org)
-- []()
-- []()
+- [Radio vaticana](https://www.vaticannews.va/eo/podcast/esperanto-programo.html)
 
 Religio
 - [Biblio](https://computing.southern.edu/rordonez/EsperantoAudioBible/html/)
