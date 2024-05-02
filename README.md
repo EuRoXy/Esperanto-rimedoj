@@ -43,6 +43,8 @@ Lingvo
 - [Retoriko](https://www.ivolapenna.org/verkoj/books/esp_retoriko.pdf)
 
 Komputado kaj tekniko
+- [deponejo Esperanto](https://github.com/Esperanto/)
+- [Esperantaj kodprojektoj](https://github.com/Esperanto/projektoj)
 - [Komputeko](https://komputeko.net/#!b)
 - [Programistiĝu](https://www.youtube.com/playlist?list=PLLcWlBThjQPyrDDy3UIW8Zo0yreJWyfAp)
 - [Esperanto kaj Libera Scio](https://www.youtube.com/channel/UCe6epPgJ2jvsWxbQxeL6kUg)
@@ -115,6 +117,7 @@ Sciencoj
 - [Lernolibroj](http://verkoj.com/lauteme/sciencaj-lernolibroj/)
 
 Sociaj retejoj
+- [telegramo](https://telegramo.org/)
 - [Mia vivo](https://www.miavivo.net/)
 - [Mastodon](https://esperanto.masto.host/explore)
 - [Amikumu](https://amikumu.com/eo/)
