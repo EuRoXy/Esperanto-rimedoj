@@ -7,7 +7,8 @@ Biblioteko, libroservo kaj literaturo
 - [Bobelarto](https://bobelarto.ink/)
 - [EO BookWyrm](https://libroj.org/)
 - [La teorio Nakamura](https://lernu.net/libro): kursaro en [Lernu!](lernu.net)
-
+- [Ridejo](https://ridejo.ikso.net/): ŝercoj kaj amuzaj bildoj 
+  
 Blogoj
 - [blogoj en esperanto](http://blogoj.gemelo.org/)
 - [Libera Folio](https://www.liberafolio.org/): sendependa movada bulteno
@@ -50,6 +51,7 @@ Komputado kaj tekniko
 - [Esperanto kaj Libera Scio](https://www.youtube.com/channel/UCe6epPgJ2jvsWxbQxeL6kUg)
 
 Koncertoj
+- [Koncerto de Jonny M | Retoso 2024](https://www.youtube.com/watch?v=At8XPeimL04)
 - [Koncerto de Clarissa | Retoso 2023](https://www.youtube.com/watch?v=-RNnk5rrhwg)
 - [Koncerto de Brunê | Retoso 2021](https://www.youtube.com/watch?v=D2nEW01WjIk)
 - [Koncerto de Tim Gallego | Retoso 2021](https://www.youtube.com/watch?v=KP6tmtDPHpM)
@@ -57,6 +59,8 @@ Koncertoj
 - [Koncerto de La Perdita Generacio | IJK 2021 en la reto](https://www.youtube.com/watch?v=b9c42_iKfwY)
 - [Koncerto de Emerson Santos | IJK 2020 en la reto](https://www.youtube.com/watch?v=BXeq3LpXKtY)
 - [Koncerto de Jonny M | IJK 2020 en la reto](https://www.youtube.com/watch?v=jGIK5zJUFaU)
+- [Koncerto de JoMo | SES 2020](https://www.youtube.com/watch?v=R0vqOAeoqkg&list=PLxK2Msuk-O2unnWwv7WoPk97dDXJi7uJl&index=17)
+- [Koncerto de Kaŝi | SES 2020](https://www.youtube.com/watch?v=f8IBR1aoW6Q&list=PLxK2Msuk-O2unnWwv7WoPk97dDXJi7uJl&index=12)
 
 Kuirado kaj receptoj
 - [Bonan Apetiton](https://apetito.ikso.net/)
@@ -71,6 +75,7 @@ Muzikaloj
 
 Muziko
 - [Vinilkosmo](https://www.vinilkosmo-mp3.com/eo/)
+- inicialoj dc: [JTB](https://www.youtube.com/user/initialsdc), [bandcamp](https://initialsdc.bandcamp.com/music)
 - [Cristina Casella](https://www.youtube.com/@CristinaCasella)
 - [Ludlisto de Sxinja](https://www.youtube.com/playlist?list=PLerAF-p4RGFBRVLGkn7VJM5Za3FliZDuQ)
 - [Ludlisto de ekstremoj](https://www.youtube.com/playlist?list=PL7EA1ACACD139A1F4)
@@ -88,6 +93,7 @@ Podkastoj
 
 Radio
 - [Canal Sud Tuluzo FM](https://toulouse.occeo.net/category/radio/)
+- [Radio espéranto](https://radio-libertaire.org/podcast/z_commun/emission_aff.php?id_e=50&id_c=41&bout=alpha)
 - [Muzaiko](http://muzaiko.info/a%C5%ADskultu)
 - [Varsovia Vento](https://www.podkasto.net/), [podkasto viavento](https://www.youtube.com/channel/UCR5dluqaVH7xo5iAfkunyVA)
 - [Pola Retradio](https://pola-retradio.org)
@@ -116,7 +122,7 @@ Sciencoj
 - [Internacia Kongresa Universitato (IKU)](http://verkoj.com/lauteme/scienco/IKU/#)
 - [Lernolibroj](http://verkoj.com/lauteme/sciencaj-lernolibroj/)
 
-Sociaj retejoj
+Sociaj retoj
 - [telegramo](https://telegramo.org/)
 - [Mia vivo](https://www.miavivo.net/)
 - [Mastodon](https://esperanto.masto.host/explore)
@@ -159,12 +165,13 @@ Verkoj
 - [Verkoj](http://verkoj.com/lauteme/index.html)
 - [UEA.facila artikoloj](https://uea.facila.org/index.php?app=cms&module=pages&controller=page&path=artikoloj)
 
-Vojagxo
+Vojaĝo
 - [Chelsea Rae Moses](https://www.youtube.com/@tinydancestar/playlists)
 - [Pigrulo](https://www.youtube.com/@pigrulo3364/playlists)
 - [Alex & Camille](https://www.youtube.com/channel/UCidbSWM7DjqhHl9JMISgrEw)
 - [Monumento Pri Esperanto](https://dvd.ikso.net/faka/scienco/Monumente.pdf)
 - [Pasporta Servo](https://www.pasportaservo.org/)
+- [Lucien Péraire](https://esperanto.paris/lucien-peraire): tra la mondo per biciklo, per kaj por Esperanto
 
 Vortaroj kaj tekstaro
 - [PIV 2020](https://vortaro.net/)
