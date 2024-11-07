@@ -22,8 +22,8 @@ Ekzamenoj
 Eventoj
 - [Eventa Servo](https://eventaservo.org/)
 - Internacia Junulara Kongreso: [IJK](https://www.tejo.org/cause/internacia-junulara-kongreso/)
-- Universala Kongreso: [UK] (https://www.uea.org/kongresoj/UK)
-- Somera Esperanto-Studado: [SES](https://ses.ikso.net/2022/eo/): [SES 2020](https://www.youtube.com/playlist?list=PLxK2Msuk-O2unnWwv7WoPk97dDXJi7uJl)
+- Universala Kongreso: [UK](https://www.uea.org/kongresoj/UK)
+- Somera Esperanto-Studado: [SES](https://ses.ikso.net/2022/eo/); [2020](https://www.youtube.com/playlist?list=PLxK2Msuk-O2unnWwv7WoPk97dDXJi7uJl)
 - Nord-Amerika Somera Kursaro: [NASK](http://nask.esperanto-usa.org/)
 
 Famuloj
