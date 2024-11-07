@@ -21,8 +21,10 @@ Ekzamenoj
 
 Eventoj
 - [Eventa Servo](https://eventaservo.org/)
-- [Somera Esperanto-Studado](https://ses.ikso.net/2022/eo/): [SES 2020](https://www.youtube.com/playlist?list=PLxK2Msuk-O2unnWwv7WoPk97dDXJi7uJl)
-- [NASK: Nord-Amerika Somera Kursaro](http://nask.esperanto-usa.org/)
+- Internacia Junulara Kongreso: [IJK](https://www.tejo.org/cause/internacia-junulara-kongreso/)
+- Universala Kongreso: [UK] (https://www.uea.org/kongresoj/UK)
+- Somera Esperanto-Studado: [SES](https://ses.ikso.net/2022/eo/): [SES 2020](https://www.youtube.com/playlist?list=PLxK2Msuk-O2unnWwv7WoPk97dDXJi7uJl)
+- Nord-Amerika Somera Kursaro: [NASK](http://nask.esperanto-usa.org/)
 
 Famuloj
 - [La Esperantisto de la Jaro](https://esperanto-ondo.ru/Ind-jaro.htm)
@@ -38,6 +40,7 @@ Filmetoj
 
 Lingvo
 - [Konfuziloj](https://edukado.net/biblioteko/fotoj?al=26)
+- Vortludoj: [Vortoj](https://vortoj.net/eo/)
 - [La poetoj detruas nian lingvon](http://bonalingvo.net/index.php/La_poetoj_detruas_nian_lingvon)
 - [Poetoj konstruas nian lingvon](https://dvd.ikso.net/revuo/Revuo_Esperanto/2009/12.pdf#page=11)
 - [La bona lingvo](http://claudepiron.free.fr/livres/bonalingvo.htm)
@@ -79,6 +82,7 @@ Muziko
 - [Cristina Casella](https://www.youtube.com/@CristinaCasella)
 - [Ludlisto de Sxinja](https://www.youtube.com/playlist?list=PLerAF-p4RGFBRVLGkn7VJM5Za3FliZDuQ)
 - [Ludlisto de ekstremoj](https://www.youtube.com/playlist?list=PL7EA1ACACD139A1F4)
+- [Brazila muziko](https://www.brazilamuziko.com/)
 
 Podkastoj
 - [podkasta](http://podkasta.net/pod.php)
@@ -118,8 +122,8 @@ Sciencoj
 - [IRIS - Internacia Reta Interfaka Simpozio 2023](https://www.youtube.com/playlist?list=PLTJlxCuYruSnLagnrtaMmHcp54BO9rzcy)
 - [IRIS - Internacia Reta Interfaka Simpozio 2021](https://www.youtube.com/playlist?list=PLTJlxCuYruSnFaZL5jBo7Xk8lSiXG0LN7)
 - Konferenco pri Aplikoj de Esperanto en Scienco kaj Tekniko (KAEST): [2020](https://www.youtube.com/playlist?list=PLxK2Msuk-O2suJWj-ieNJ5wI_uuxLom3-), [2014](https://www.youtube.com/playlist?list=PLxK2Msuk-O2tDVwbfHz6vlQKSDve0hvuq)
+- [Internacia Kongresa Universitato](https://www.uea.org/kongresoj/universitato): IKU [(Verkoj)](http://verkoj.com/lauteme/scienco/IKU/#)
 - [Universitato de Esperanto](https://www.universitato.info/)
-- [Internacia Kongresa Universitato (IKU)](http://verkoj.com/lauteme/scienco/IKU/#)
 - [Lernolibroj](http://verkoj.com/lauteme/sciencaj-lernolibroj/)
 
 Sociaj retoj
@@ -164,6 +168,7 @@ Televido
 Verkoj
 - [Verkoj](http://verkoj.com/lauteme/index.html)
 - [UEA.facila artikoloj](https://uea.facila.org/index.php?app=cms&module=pages&controller=page&path=artikoloj)
+- [Verkoj](https://legacy.esperanto.org.uk/eldonoj/piron/) de [Claude Piron](https://www.wikiwand.com/eo/articles/Claude_Piron)
 
 Vojaĝo
 - [Chelsea Rae Moses](https://www.youtube.com/@tinydancestar/playlists)
@@ -176,4 +181,5 @@ Vojaĝo
 Vortaroj kaj tekstaro
 - [PIV 2020](https://vortaro.net/)
 - [Reta Vortaro](https://www.reta-vortaro.de/revo/dlg/index-2l.html)
+- [Proverboj](https://proverbaro.net/)
 - [Tekstaro](https://tekstaro.com/)
