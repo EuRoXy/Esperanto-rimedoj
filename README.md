@@ -52,6 +52,7 @@ Komputado kaj tekniko
 - [Komputeko](https://komputeko.net/#!b)
 - [Programistiĝu](https://www.youtube.com/playlist?list=PLLcWlBThjQPyrDDy3UIW8Zo0yreJWyfAp)
 - [Esperanto kaj Libera Scio](https://www.youtube.com/channel/UCe6epPgJ2jvsWxbQxeL6kUg)
+- [Vikioj por Eŭropo (ViPE)](https://kursoj.esperanto.wiki/)
 
 Koncertoj
 - [Koncerto de Jonny M | Retoso 2024](https://www.youtube.com/watch?v=At8XPeimL04)
@@ -125,6 +126,7 @@ Sciencoj
 - [Internacia Kongresa Universitato](https://www.uea.org/kongresoj/universitato): IKU [(Verkoj)](http://verkoj.com/lauteme/scienco/IKU/#)
 - [Universitato de Esperanto](https://www.universitato.info/)
 - [Lernolibroj](http://verkoj.com/lauteme/sciencaj-lernolibroj/)
+- [Scienca kaj Teknika Esperanto-Biblioteko (STEB)](https://www.eventoj.hu/steb/)
 
 Sociaj retoj
 - [telegramo](https://telegramo.org/)
